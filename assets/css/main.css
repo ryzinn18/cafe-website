@@ -2089,6 +2089,10 @@ input, select, textarea {
 			color: #76ddff;
 		}
 
+        .icon.style6 {
+			color: #ff7f50;
+		}
+
 /* Image */
 
 	.image {
@@ -2815,9 +2819,11 @@ input, select, textarea {
 		.wrapper.alt {
 			padding: 0;
 		}
-
+        /*
+         'Bulletin' Styles
+        */
 		.wrapper.style1 {
-			background-color: #000040;
+			background-color: #ff7f50;
 			color: #ffffff;
 		}
 
@@ -3300,6 +3306,12 @@ input, select, textarea {
 				}
 
 			}
+        /*
+         'The Essentials' Styles
+        */
+        .wrapper.style6 {
+			color: #ff7f50;
+		}
 
 		@media screen and (max-width: 980px) {
 
