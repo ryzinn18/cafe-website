@@ -1,0 +1,7 @@
+.idea/
+!.idea/runConfigurations/
+!.idea/codeStyles/
+# macOS
+*.DS_Store
+.AppleDouble
+*.swp
